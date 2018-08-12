@@ -67,17 +67,23 @@ docker run --name kong-dashboard  \
 
 
 **收集资料**
-1. 小豹API网关
+1. Kong API 相关的资料
+[[云框架]KONG API Gateway](https://github.com/cloudframeworks-apigateway)
+
+2. WebSocket 转发
+[随笔分类 - KONG](https://www.cnblogs.com/SummerinShire/category/861287.html) 
+
+3. 小豹API网关
 
 ![image](http://www.xbgateway.com/resources/img/why_use_api.png)
 
-2. 工作原理
+4. 工作原理
 
 ![image](http://i2.51cto.com/images/blog/201801/08/1bb110f42c391c4ea631a7280e3d4fb8.png?x-oss-process=image/watermark,size_16,text_QDUxQ1RP5Y2a5a6i,color_FFFFFF,t_100,g_se,x_10,y_10,shadow_90,type_ZmFuZ3poZW5naGVpdGk=)
 
-3. 采用API Gteway 前后的区别
+5. 采用API Gteway 前后的区别
 ![image](https://getkong.org/assets/images/homepage/diagram-left.png)
 ![image](https://getkong.org/assets/images/homepage/diagram-right.png)
 
-4. Kong API Gateway的技术架构
+6. Kong API Gateway的技术架构
 ![image](https://images2015.cnblogs.com/blog/761566/201702/761566-20170210101320151-504870266.jpg)

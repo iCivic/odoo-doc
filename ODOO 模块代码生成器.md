@@ -1,3 +1,5 @@
+<script src="mermaid.full.min.js"></script>
+
 代码生成器
 ================
 

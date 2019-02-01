@@ -79,7 +79,7 @@ B->>A: Great!
 
 
 
-```sequence
+```seq
 title  上级指令管理 - 参考类指令的一般流程
 
 autonumber
